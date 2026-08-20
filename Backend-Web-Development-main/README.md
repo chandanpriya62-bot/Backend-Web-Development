@@ -1,4 +1,4 @@
-# Backend Web Development — Assignments
+# Backend-Web-Development — Assignments
 
 Welcome! This repository holds the **starter code** for the hands-on assignments in the
 **Backend Web Development** course. It is shared with **both students and mentors**.
